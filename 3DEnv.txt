@@ -1,0 +1,7 @@
+Sample scene from my very first attempt at using Unity 3D
+
+Player Movement
+Fish(Untextured) moving from place to place
+terrain / texturing
+props
+lighting
